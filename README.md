@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ## 国光
 
+信息安全从业者，目前工作内容主要是红队方向的技术研究 
 个人博客：[www.sqlsec.com](https://www.sqlsec.com)  
 
 ![](https://github-readme-stats.vercel.app/api?username=sqlsec) 
