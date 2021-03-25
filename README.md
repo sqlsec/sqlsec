@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 个人博客：[www.sqlsec.com](https://www.sqlsec.com)  
 
 ![](https://github-readme-stats.vercel.app/api?username=sqlsec) 
+![](https://github-readme-stats.vercel.app/api?username=sqlsec&show_icons=true&hide_border=true&theme=radical)
