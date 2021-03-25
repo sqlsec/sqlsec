@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td ><center><img src="https://github-readme-stats.vercel.app/api?username=sqlsec&show_icons=true&hide_border=true&theme=chartreuse-dark" ></center></td>
-        <td ><center><img src="https://github-readme-stats.vercel.app/api?username=sqlsec&show_icons=true&hide_border=true&theme=radical" ></center></td>
+        <td ><center><img src="https://github-readme-stats.vercel.app/api?username=sqlsec&show_icons=true&hide_border=true&theme=highcontrast" ></center></td>
     </tr>
     </tr>
 </table>
